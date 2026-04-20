@@ -44,7 +44,7 @@ body {
 
 /* 3. الهيدر والصور (Hero Sections) */
 .hero-primary {
-    background: url('file:///C:/All/Programs/Creativa/Fullstack%20Creativa/Task1,2%20(HTML,CSS)/efited%20edition/Gemini_Generated_Image_q5pja8q5pja8q5pj.png') no-repeat center / cover;
+    background: url('Gemini_Generated_Image_q5pja8q5pja8q5pj.png') no-repeat center / cover;
     height: 650px;
     display: flex;
     align-items: center; /* افقي و راسي سنتر اند ستارت*/
@@ -58,7 +58,7 @@ body {
 }
 /* الصورة التانية */
 .hero-secondary {
-    background: url('file:///C:/All/Programs/Creativa/Fullstack%20Creativa/Task1,2%20(HTML,CSS)/efited%20edition/Gemini_Generated_Image_hho1zqhho1zqhho1.png') no-repeat center;
+    background: url('Gemini_Generated_Image_hho1zqhho1zqhho1.png') no-repeat center;
     background-size: cover;
     background-attachment: fixed; /* تأثير الـ Parallax */
     height: 600px;
